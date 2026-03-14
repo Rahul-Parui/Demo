@@ -4,9 +4,10 @@ It is only for learning github
 how are you?
 # hi2
 hi
-<<<<<<< HEAD
 # hi4
 # hi3
 # main
 # features
 # main2
+# feature 2
+
